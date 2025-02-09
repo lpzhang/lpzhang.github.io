@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Postdoctoral Research Fellow specializing in machine learning for medical imaging at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org), Harvard Medical School, and Massachusetts General Hospital, under the mentorship of [Prof. Fang Liu](https://www.martinos.org/investigator/fang-liu/). My research focuses on advancing medical image processing and analysis through deep learning, with an emphasis on image segmentation, synthesis, reconstruction, and super-resolution. My work aims to enhance image quality and develop AI-driven solutions that address real-world clinical challenges, contributing to the advancement of medical diagnostics and patient care.
+
+Prior to joining Harvard, I was a Postdoctoral Fellow in the [Department of Imaging and Interventional Radiology](https://www.diir.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), supervised by [Prof. Weitian Chen](https://www.diir.cuhk.edu.hk/staff/weitian-chen/). I earned my Ph.D. in Imaging and Interventional Radiology from CUHK in 2020, under the supervision of [Prof. Simon Chun Ho Yu](https://www.cuhkmc.hk/professionals/dr-simon-yu-chun-ho) and [Prof. Lin Shi](https://scholar.google.com/citations?hl=zh-TW&user=IbUw_4wAAAAJ&view_op=list_works&sortby=pubdate). Before my Ph.D., I worked as a Research Assistant in [Prof. Xiaogang Wang](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-xiaogang-wang)’s lab at CUHK’s Department of Electronic Engineering. I completed my Master’s degree in Computer Science from the Department of Computer Science and Engineering at The Chinese University of Hong Kong in 2014 and obtained my Bachelor’s degree in Instrument Science and Technology from the School of Electronic Information and Electrical Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/schools), where I was mentored by [Prof. Hui Zhao](https://english.seiee.sjtu.edu.cn/english/detail/843_861.htm).
 
 A data-driven personal website
 ======
