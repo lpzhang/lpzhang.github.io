@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liping Zhang / Site Title"
+title                    : "Liping Zhang"
 title_separator          : "-"
 name                     : &name "Liping Zhang"
 description              : &description "Postdoctoral Research Fellow at Harvard Medical School and Massachusetts General Hospital"
