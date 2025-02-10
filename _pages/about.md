@@ -13,4 +13,4 @@ Prior to joining Harvard, I was a Postdoctoral Fellow in the [Department of Imag
 
 Contact
 ------
-lzhang@mgh.harvard.edu or lpzhang@link.cuhk.edu.hk
+Email: lzhang90@mgh.harvard.edu or lpzhang@link.cuhk.edu.hk
