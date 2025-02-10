@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liping Zhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Liping Zhang"
 description              : &description "Postdoctoral Research Fellow at Harvard Medical School and Massachusetts General Hospital"
@@ -23,7 +23,7 @@ repository               : "lpzhang.github.io"
 author:
   # Biographic information
   avatar           : "lpzhang.jpg"
-  name             : "Dr. Liping Zhang"
+  name             : "Liping Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow <br> @ Harvard Medical School <br> @ Massachusetts General Hospital"
   location         : "US"
